@@ -1,0 +1,44 @@
+.colonne1{
+    background-color: blueviolet;
+    height: 100%;
+    width: 100%;
+    padding-top: 50px;
+    color: white;
+
+}
+.colonne2{
+    background-color: rgb(188, 188, 189);
+    height: 100%;
+    /* width: 100%; */
+    padding-top: 50px;
+    color: black;
+}
+.colonne1 img{
+    border-radius: 100px;
+}
+.colonne1 .progress-bar{
+    background-color: white;
+    color: blueviolet;
+    font-weight: bold;
+}
+.colonne1 .bar1{
+    background-color: blueviolet;
+}
+.colonne2 .case1{
+    background-color:#ffffff;
+    height: 100%;
+    /* width: 100%; */
+    padding: 30px;
+    color: black;
+}
+body{
+    overflow-x: hidden;
+}
+.casebottom a{
+    margin-left: 4%;
+    color: blueviolet;
+    margin-right: 15%;
+}
+.casebottom a:hover{
+    color: black;
+}
